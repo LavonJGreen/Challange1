@@ -1,13 +1,13 @@
 # Heriseon
 
-##Purpose
+## Purpose
 A multi-media managment company that boost online presence and reputation 
 
-##Built with 
+## Built with 
 * HTML
 * CSS
 
-##Website
+## Website
 https://lavonjgreen.github.io/Challange1/
 
 ## Contribution
